@@ -329,7 +329,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 223c0125-58e7-4360-ac41-7d8e5e2f4a8d)
     (property "Reference" "J?" (id 0) (at 36.83 20.32 0))
-    (property "Value" "" (id 1) (at 36.83 22.86 0))
+    (property "Value" "USB_B_Micro" (id 1) (at 36.83 22.86 0))
     (property "Footprint" "" (id 2) (at 40.64 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
