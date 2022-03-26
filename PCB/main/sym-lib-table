@@ -2,4 +2,6 @@
   (lib (name "C10418")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/C10418/C10418.kicad_sym")(options "")(descr ""))
   (lib (name "CN3791")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/CN3791/CN3791.kicad_sym")(options "")(descr ""))
   (lib (name "TP4054-42-SOT25-R")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/TP4054-42-SOT25-R/TP4054-42-SOT25-R.kicad_sym")(options "")(descr ""))
+  (lib (name "SGPC3-2.5k")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/LIB_SGPC3-2.5k/SGPC3-2.5k.kicad_sym")(options "")(descr ""))
+  (lib (name "DiscoverAir")(type "KiCad")(uri "${KIPRJMOD}/main-backups/DiscoverAir.kicad_sym")(options "")(descr ""))
 )

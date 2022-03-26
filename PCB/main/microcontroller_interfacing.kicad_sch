@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "DiscoverAir HAT")
+    (rev "V0.0")
+    (company "University of Cape Town")
+    (comment 4 "@Authors: Justin Pead, Mark Njoroge")
+  )
+
   (lib_symbols
   )
 
