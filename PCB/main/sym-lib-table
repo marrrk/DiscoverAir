@@ -4,4 +4,5 @@
   (lib (name "TP4054-42-SOT25-R")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/TP4054-42-SOT25-R/TP4054-42-SOT25-R.kicad_sym")(options "")(descr ""))
   (lib (name "SGPC3-2.5k")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/LIB_SGPC3-2.5k/SGPC3-2.5k.kicad_sym")(options "")(descr ""))
   (lib (name "DiscoverAir")(type "KiCad")(uri "${KIPRJMOD}/main-backups/DiscoverAir.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102-GMR")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/CP2102-GMR/CP2102-GMR.kicad_sym")(options "")(descr ""))
 )

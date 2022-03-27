@@ -3,4 +3,5 @@
   (lib (name "CN3791")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/CN3791")(options "")(descr ""))
   (lib (name "TP4054-42-SOT25-R")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/TP4054-42-SOT25-R")(options "")(descr ""))
   (lib (name "LIB_SGPC3-2")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/LIB_SGPC3-2.5k")(options "")(descr ""))
+  (lib (name "CP2102-GMR")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/CP2102-GMR")(options "")(descr ""))
 )
