@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMF05CT1G
+D 5-Line Transient Voltage Suppressor Array
+K
+F http://www.onsemi.com/pub/Collateral/SMF05C-D.PDF
+$ENDCMP
+#
+#End Doc Library
