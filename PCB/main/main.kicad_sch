@@ -4752,7 +4752,7 @@
       (reference "U2") (unit 1) (value "SGM2007-3.3XN5/TR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1505c9e6-3f78-4efb-9731-8524c53f87b8"
-      (reference "U3") (unit 1) (value "AMS1117-1.8") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+      (reference "U3") (unit 1) (value "AMS1117-1.8") (footprint "Package_TO_SOT_SMD:SOT-223")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/6ec33c1b-4404-4fd3-8e9f-15fa99e305b4"
       (reference "U4") (unit 1) (value "LM358") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
