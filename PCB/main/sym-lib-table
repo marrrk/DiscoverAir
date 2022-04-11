@@ -6,4 +6,5 @@
   (lib (name "DiscoverAir")(type "KiCad")(uri "${KIPRJMOD}/main-backups/DiscoverAir.kicad_sym")(options "")(descr ""))
   (lib (name "CP2102-GMR")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/CP2102-GMR/CP2102-GMR.kicad_sym")(options "")(descr ""))
   (lib (name "SMF05CT1G")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/SMF05CT1G/KiCad/SMF05CT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/TS-1187A-B-A-B/KiCad/TS-1187A-B-A-B.kicad_sym")(options "")(descr ""))
 )

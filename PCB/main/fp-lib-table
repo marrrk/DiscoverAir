@@ -6,4 +6,6 @@
   (lib (name "CP2102-GMR")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/CP2102-GMR")(options "")(descr ""))
   (lib (name "SMF05CT1G")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/SMF05CT1G/KiCad")(options "")(descr ""))
   (lib (name "MICROXNJ")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/MICROXNJ")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/TS-1187A-B-A-B/KiCad")(options "")(descr ""))
+  (lib (name "Silkscreen")(type "KiCad")(uri "${KIPRJMOD}/../Library/kicad6-libraries/Silkscreen")(options "")(descr ""))
 )
